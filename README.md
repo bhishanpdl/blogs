@@ -1,12 +1,13 @@
 # blogs
-Example of blog.
+This is my first blog.
 
-My first [blog](https://bhishanpdl.github.io/blogs/).
+The link to the blog is given [here](https://bhishanpdl.github.io/blogs/).
 
 # References
 
 I got the idea of creating blog from evanwill's tutorial.
+The youtube video and github links are given below.
 
-[We can go to youtube video here](https://www.youtube.com/watch?v=SWVjQsvQocA).
+[youtube-video](https://www.youtube.com/watch?v=SWVjQsvQocA).
 
-[The github repo link is here](https://github.com/evanwill/newblog).
+[github-link](https://github.com/evanwill/newblog).
