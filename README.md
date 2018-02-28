@@ -1,0 +1,2 @@
+# blogs
+Example of blog.
