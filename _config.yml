@@ -1,0 +1,19 @@
+# basic options, i can say what ever here
+title: New-awesome-blog
+author: Smart Guy
+email: bhishantryphysics@gmail.com
+description: A lovely wonderful blog
+github_username: bhishanpdl
+
+social:
+  name: Evan Will
+  links: 
+    - https://github.com/bhishanpdl
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# plugin test
+gems:
+  - jekyll-seo-tag
