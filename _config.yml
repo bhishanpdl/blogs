@@ -1,14 +1,16 @@
-# basic options, i can say what ever here
+# Settings
 title: New-awesome-blog
 author: Smart Guy
 email: bhishantryphysics@gmail.com
 description: A lovely wonderful blog
+twitter_username: bhishan_poudel
 github_username: bhishanpdl
 
 social:
-  name: Evan Will
+  name: Bhishan Poudel
   links: 
     - https://github.com/bhishanpdl
+    - https://twitter.com/bhishan_poudel
 
 # Build settings
 markdown: kramdown
