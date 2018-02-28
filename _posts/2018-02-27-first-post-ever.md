@@ -3,9 +3,9 @@ layout: post
 title: First Post in History
 ---
 
-The year is 1998.
+Today is Feb 27, 2018 Tuesday.
 Everything is awesome.
-I invented blogging.
+I just learned about blogging.
 
 Now I am done.
 
