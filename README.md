@@ -1,4 +1,4 @@
-# blogs
-This is my personal [blog](https://bhishanpdl.github.io/blogs/).
+# Readme
+These are my personal [blogs](https://bhishanpdl.github.io/blogs/).
 
 
