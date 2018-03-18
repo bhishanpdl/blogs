@@ -3,13 +3,4 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+The writer is an astronomer pursuing his Ph.D. in Physics at [Ohio University](https://www.ohio.edu/).
