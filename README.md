@@ -1,4 +1,4 @@
 # Readme
-These are my personal [blogs](https://bhishanpdl.github.io/blogs/).
+These are some of the useful [blogs](https://bhishanpdl.github.io/blogs/).
 
 
