@@ -1,4 +1,11 @@
-I am a Physics Ph.D student at Ohio University. My research is mainly about the Astrophysics galaxy cluster simulations.
-Besides physics I am highly interested in Data Analysis and Machine Learning. I am fluent in Python and have lots of experience with Bash, LaTex, Fortran and Python packages.
+Author: Bhishan Poudel  
+
+Current Affiliation: Physics Ph.D candidate in Ohio University USA 
+
+Research: Galaxy cluster simulations of the galaxy images taken from HST 
+
+Interest: Astrophysics, Data Analysis and Machine Learning.
+
+Language fluency: Fluent in Python and have lots of experience with Bash, LaTex, Fortran and Python packages.
 
 
