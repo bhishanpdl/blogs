@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post in History
+title: cd to the path of frontmost path in Finder
 ---
 
 Date: Sep 19, 2018
