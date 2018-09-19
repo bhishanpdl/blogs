@@ -9,3 +9,4 @@ Interest: Astrophysics, Data Analysis and Machine Learning.
 Language fluency: Fluent in Python and have lots of experience with Bash, LaTex, Fortran and Python packages.
 
 
+Blog [link](https://bhishanpdl.github.io/blogs/).
