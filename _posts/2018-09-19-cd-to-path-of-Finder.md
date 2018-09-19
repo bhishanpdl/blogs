@@ -6,7 +6,10 @@ title: First Post in History
 Date: Sep 19, 2018
 
 Many times we need to open the Finder paths in the terminal. We can do in muliple ways: 
+
 > open the terminal and type the whole path.
+
+
 > If we have right click new terminal service: Right click and open in new terminal.
 
 However, today I found a new way to open current finder path in terminal using bash function inside our
